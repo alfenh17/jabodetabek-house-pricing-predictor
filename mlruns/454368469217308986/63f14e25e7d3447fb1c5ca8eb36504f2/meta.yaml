@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Analytic%20Projects%202026/Project%20Github/jakarta-house-predictor-system/mlruns/454368469217308986/63f14e25e7d3447fb1c5ca8eb36504f2/artifacts
+end_time: 1776571582158
+entry_point_name: ''
+experiment_id: '454368469217308986'
+lifecycle_stage: active
+run_id: 63f14e25e7d3447fb1c5ca8eb36504f2
+run_name: XGBoost Default
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776571571834
+status: 3
+tags: []
+user_id: HP

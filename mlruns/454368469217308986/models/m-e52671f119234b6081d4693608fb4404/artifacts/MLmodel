@@ -1,0 +1,23 @@
+artifact_path: file:///D:/Analytic%20Projects%202026/Project%20Github/jakarta-house-predictor-system/mlruns/454368469217308986/models/m-e52671f119234b6081d4693608fb4404/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.6.0
+    model_class: lightgbm.sklearn.LGBMRegressor
+    serialization_format: cloudpickle
+    skops_trusted_types: null
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.13.9
+mlflow_version: 3.11.1
+model_id: m-e52671f119234b6081d4693608fb4404
+model_size_bytes: 2835377
+model_uuid: m-e52671f119234b6081d4693608fb4404
+prompts: null
+run_id: 3e9acf97e1d54d099ce91e1f7fb30c4f
+utc_time_created: '2026-04-19 09:09:54.082806'

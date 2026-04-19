@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Analytic%20Projects%202026/Project%20Github/jakarta-house-predictor-system/mlruns/454368469217308986/models/m-d3275f42a30f47a0b96f2bb5e41dc9f1/artifacts
+creation_timestamp: 1776589814566
+experiment_id: '454368469217308986'
+last_updated_timestamp: 1776589825556
+model_id: m-d3275f42a30f47a0b96f2bb5e41dc9f1
+model_type: null
+name: model
+source_run_id: 69b79c47906c479b8345ff032ea7902d
+status: 2
+status_message: null

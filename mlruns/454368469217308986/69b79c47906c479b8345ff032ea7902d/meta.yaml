@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Analytic%20Projects%202026/Project%20Github/jakarta-house-predictor-system/mlruns/454368469217308986/69b79c47906c479b8345ff032ea7902d/artifacts
+end_time: 1776589825593
+entry_point_name: ''
+experiment_id: '454368469217308986'
+lifecycle_stage: active
+run_id: 69b79c47906c479b8345ff032ea7902d
+run_name: LightGBM Tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776589814361
+status: 3
+tags: []
+user_id: HP

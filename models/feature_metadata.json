@@ -1,0 +1,172 @@
+{
+  "features_num": [
+    "luas_bangunan_m2",
+    "luas_tanah_m2",
+    "jumlah_kamar_tidur",
+    "jumlah_kamar_mandi",
+    "garasi",
+    "property_age",
+    "dist_mrt_km",
+    "bath_bed_ratio",
+    "area_per_bed",
+    "bcr",
+    "total_rooms",
+    "kondisi_enc",
+    "cert_enc",
+    "latitude",
+    "longitude"
+  ],
+  "features_cat": [
+    "city"
+  ],
+  "features_ohe": [
+    "zone_Jakarta Outer",
+    "zone_Satellite East",
+    "zone_Satellite South",
+    "zone_Satellite West"
+  ],
+  "all_features": [
+    "luas_bangunan_m2",
+    "luas_tanah_m2",
+    "jumlah_kamar_tidur",
+    "jumlah_kamar_mandi",
+    "garasi",
+    "property_age",
+    "dist_mrt_km",
+    "bath_bed_ratio",
+    "area_per_bed",
+    "bcr",
+    "total_rooms",
+    "kondisi_enc",
+    "cert_enc",
+    "latitude",
+    "longitude",
+    "city",
+    "zone_Jakarta Outer",
+    "zone_Satellite East",
+    "zone_Satellite South",
+    "zone_Satellite West"
+  ],
+  "target": "log_harga",
+  "kondisi_order": {
+    "Butuh Renovasi": 0,
+    "Sedang": 1,
+    "Bagus": 2,
+    "Baru": 3
+  },
+  "cert_order": {
+    "Girik": 0,
+    "HGB": 1,
+    "SHM": 2
+  },
+  "zone_map": {
+    "Jakarta Selatan": "Jakarta Core",
+    "Jakarta Pusat": "Jakarta Core",
+    "Jakarta Barat": "Jakarta Outer",
+    "Jakarta Timur": "Jakarta Outer",
+    "Jakarta Utara": "Jakarta Outer",
+    "Depok": "Satellite South",
+    "Bogor": "Satellite South",
+    "Tangerang": "Satellite West",
+    "Tangerang Selatan": "Satellite West",
+    "Bekasi": "Satellite East"
+  },
+  "mrt_stations": {
+    "Lebak Bulus": [
+      -6.2894,
+      106.7741
+    ],
+    "Fatmawati": [
+      -6.2947,
+      106.7946
+    ],
+    "Cipete Raya": [
+      -6.2886,
+      106.8016
+    ],
+    "Haji Nawi": [
+      -6.2748,
+      106.7989
+    ],
+    "Blok A": [
+      -6.2607,
+      106.7981
+    ],
+    "Blok M": [
+      -6.2442,
+      106.7987
+    ],
+    "ASEAN": [
+      -6.2378,
+      106.7983
+    ],
+    "Senayan": [
+      -6.2278,
+      106.8009
+    ],
+    "Istora": [
+      -6.221,
+      106.8037
+    ],
+    "Bendungan Hilir": [
+      -6.2109,
+      106.8206
+    ],
+    "Setiabudi": [
+      -6.21,
+      106.8283
+    ],
+    "Dukuh Atas": [
+      -6.2014,
+      106.8229
+    ],
+    "Bundaran HI": [
+      -6.1946,
+      106.8229
+    ],
+    "Monas": [
+      -6.1869,
+      106.8229
+    ],
+    "Harmoni": [
+      -6.1706,
+      106.8181
+    ],
+    "Sawah Besar": [
+      -6.1591,
+      106.8293
+    ],
+    "Mangga Besar": [
+      -6.151,
+      106.8372
+    ],
+    "Glodok": [
+      -6.1467,
+      106.8443
+    ],
+    "Jakarta Kota": [
+      -6.1378,
+      106.8127
+    ],
+    "Kembangan": [
+      -6.1906,
+      106.7493
+    ],
+    "Daan Mogot": [
+      -6.1714,
+      106.7568
+    ]
+  },
+  "current_year": 2025,
+  "cities": [
+    "Depok",
+    "Jakarta Utara",
+    "Tangerang",
+    "Jakarta Pusat",
+    "Jakarta Timur",
+    "Bogor",
+    "Jakarta Barat",
+    "Jakarta Selatan",
+    "Bekasi"
+  ]
+}

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Analytic%20Projects%202026/Project%20Github/jakarta-house-predictor-system/mlruns/454368469217308986/8d828736784d4a7497933e10d3cb66bb/artifacts
+end_time: 1776571571826
+entry_point_name: ''
+experiment_id: '454368469217308986'
+lifecycle_stage: active
+run_id: 8d828736784d4a7497933e10d3cb66bb
+run_name: Ridge Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776571550191
+status: 3
+tags: []
+user_id: HP

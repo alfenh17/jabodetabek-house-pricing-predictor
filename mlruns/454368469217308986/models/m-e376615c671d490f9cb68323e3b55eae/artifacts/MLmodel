@@ -1,0 +1,22 @@
+artifact_path: file:///D:/Analytic%20Projects%202026/Project%20Github/jakarta-house-predictor-system/mlruns/454368469217308986/models/m-e376615c671d490f9cb68323e3b55eae/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.9
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.11.1
+model_id: m-e376615c671d490f9cb68323e3b55eae
+model_size_bytes: 1943593
+model_uuid: m-e376615c671d490f9cb68323e3b55eae
+prompts: null
+run_id: 63f14e25e7d3447fb1c5ca8eb36504f2
+utc_time_created: '2026-04-19 04:06:12.075279'

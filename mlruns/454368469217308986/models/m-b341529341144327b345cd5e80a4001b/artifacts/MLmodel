@@ -1,0 +1,23 @@
+artifact_path: file:///D:/Analytic%20Projects%202026/Project%20Github/jakarta-house-predictor-system/mlruns/454368469217308986/models/m-b341529341144327b345cd5e80a4001b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-b341529341144327b345cd5e80a4001b
+model_size_bytes: 600
+model_uuid: m-b341529341144327b345cd5e80a4001b
+prompts: null
+run_id: 95686b1202db4be195f5ed082fcb45a8
+utc_time_created: '2026-04-19 09:09:35.613870'
